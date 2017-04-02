@@ -6,6 +6,7 @@ My web experiments.
 - [CSS](#css)
 - [HTML](#html)
 - [JavaScript](#javascript)
+- [SVG](#svg)
 
 ### CSS
 My experiments with CSS.
@@ -15,3 +16,6 @@ My experiments with HTML.
 
 ### JavaScript
 My experiments with JavaScript.
+
+### SVG
+My experiments with SVG.
